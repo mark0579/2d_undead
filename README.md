@@ -1,2 +1,2 @@
-# 2d_undead
-2d_undead
+# Undead Survivor
+ 골드메탈 - 유니티 뱀서라이크
